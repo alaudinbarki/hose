@@ -1,0 +1,282 @@
+{
+  "project_info": {
+    "project_number": "846145323397",
+    "project_id": "hose-project-54dc6",
+    "storage_bucket": "hose-project-54dc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846145323397:android:1a12c3bb62c793409844ec",
+        "android_client_info": {
+          "package_name": "com.amjad.hose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846145323397-7m6dh5cblhupjeqlq4r0ln5fglrt3pub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amjad.hose",
+            "certificate_hash": "79f3c7aff1a3f8eebae3e91bc3b6dd1a7c9a1d03"
+          }
+        },
+        {
+          "client_id": "846145323397-09jteuqgbm2fiufg7muq4e5q453og6d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwBJz7rKzbENGKpLfKxGocemo0F3jThAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846145323397-09jteuqgbm2fiufg7muq4e5q453og6d0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846145323397-2c8nf1del0f56adrurs8dul7a135jo31.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appforce.hoseapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846145323397:android:6827bcd3f0b268189844ec",
+        "android_client_info": {
+          "package_name": "com.amjad.hoseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846145323397-4d24skbh0j1v62afvdmum6b5mhcskv12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amjad.hoseapp",
+            "certificate_hash": "fefddeacfcfd91cf421f645f438b3b7e714b48fd"
+          }
+        },
+        {
+          "client_id": "846145323397-09jteuqgbm2fiufg7muq4e5q453og6d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwBJz7rKzbENGKpLfKxGocemo0F3jThAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846145323397-09jteuqgbm2fiufg7muq4e5q453og6d0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846145323397-2c8nf1del0f56adrurs8dul7a135jo31.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appforce.hoseapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846145323397:android:e22be0f2c4c3258c9844ec",
+        "android_client_info": {
+          "package_name": "com.app4orce.hoze_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846145323397-slehbhroplp9ngv7gjk85lm9se8ncmbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app4orce.hoze_admin",
+            "certificate_hash": "79f3c7aff1a3f8eebae3e91bc3b6dd1a7c9a1d03"
+          }
+        },
+        {
+          "client_id": "846145323397-09jteuqgbm2fiufg7muq4e5q453og6d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwBJz7rKzbENGKpLfKxGocemo0F3jThAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846145323397-09jteuqgbm2fiufg7muq4e5q453og6d0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846145323397-2c8nf1del0f56adrurs8dul7a135jo31.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appforce.hoseapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846145323397:android:2ce014bdd81142f79844ec",
+        "android_client_info": {
+          "package_name": "com.app4orce.hoze_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846145323397-v997mgfkganjvr28njh2hfbne25qb2el.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app4orce.hoze_rider",
+            "certificate_hash": "79f3c7aff1a3f8eebae3e91bc3b6dd1a7c9a1d03"
+          }
+        },
+        {
+          "client_id": "846145323397-09jteuqgbm2fiufg7muq4e5q453og6d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwBJz7rKzbENGKpLfKxGocemo0F3jThAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846145323397-09jteuqgbm2fiufg7muq4e5q453og6d0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846145323397-2c8nf1del0f56adrurs8dul7a135jo31.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appforce.hoseapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846145323397:android:213e30645aedc5f29844ec",
+        "android_client_info": {
+          "package_name": "com.appforce.hoseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846145323397-d6v3i606bsfhltsmpf0kqlodn60bgpjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appforce.hoseapp",
+            "certificate_hash": "65ef9f6ee2918a02168914308f7e830fc00acec2"
+          }
+        },
+        {
+          "client_id": "846145323397-gtnn6c1lo1i83q0chai2o37aj9gnone3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appforce.hoseapp",
+            "certificate_hash": "a9735e0e8e2b99b764a967de420f0330d3a633ef"
+          }
+        },
+        {
+          "client_id": "846145323397-09jteuqgbm2fiufg7muq4e5q453og6d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwBJz7rKzbENGKpLfKxGocemo0F3jThAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846145323397-09jteuqgbm2fiufg7muq4e5q453og6d0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846145323397-2c8nf1del0f56adrurs8dul7a135jo31.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appforce.hoseapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846145323397:android:e07f30398e0b83029844ec",
+        "android_client_info": {
+          "package_name": "com.appforce.hoseappe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846145323397-ieojucnvn684elqop80bmo47t746v48g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appforce.hoseappe",
+            "certificate_hash": "65ef9f6ee2918a02168914308f7e830fc00acec2"
+          }
+        },
+        {
+          "client_id": "846145323397-09jteuqgbm2fiufg7muq4e5q453og6d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwBJz7rKzbENGKpLfKxGocemo0F3jThAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846145323397-09jteuqgbm2fiufg7muq4e5q453og6d0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846145323397-2c8nf1del0f56adrurs8dul7a135jo31.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appforce.hoseapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
